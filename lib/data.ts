@@ -77,6 +77,14 @@ export const experiencesData = [
     date: "2023",
   },
   {
+    title: "Diploma in Data Science",
+    location: "Buenos Aires, AR",
+    description:
+      "Pursuing a diploma in Data Science with a focus on Machine Learning and Artificial Intelligence at UNSAM.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023",
+  },
+  {
     title: "Data Analyst to Full Stack Developer",
     location: "Buenos Aires, AR",
     description:
