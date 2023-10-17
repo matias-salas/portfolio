@@ -99,7 +99,7 @@ export const projectsData = [
   {
     title: "TriviaMega",
     description:
-      "TriviaMega was a freelance project I undertook for two prominent companies, Accenture and Megatlon, during the course of the 2023 World Cup.",
+      "TriviaMega was a freelance project I undertook a freelance project, for two prominent firms during the course of the 2023 World Cup.",
     tags: ["Django", "MySQL", "Tailwind", "AWS-Lambda"],
     imageUrl: trivialImg,
   },
