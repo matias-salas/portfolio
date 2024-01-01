@@ -32,7 +32,7 @@ export default function Intro() {
               }}
           >
             <Image 
-              src="https://media.licdn.com/dms/image/D4D03AQGpuVZ9OaWcCw/profile-displayphoto-shrink_800_800/0/1688353456683?e=1702512000&v=beta&t=BxkeNR9_3bKxkFLj9aG4iD3AaFBE8JWH-uCxlGpxx50"
+              src="https://media.licdn.com/dms/image/D4D03AQFmS8PaO7DFPQ/profile-displayphoto-shrink_800_800/0/1704153378684?e=1709769600&v=beta&t=Mxnf-QS_DPUw5tseN_OIs53pW6ninMbZYwtnaN40AWw"
               alt='Matias portrait' 
               width="192"
               height="192"
